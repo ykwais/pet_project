@@ -81,6 +81,7 @@ docker-compose -p sasha up
 - Готовые запросы Postman в [файле](JavaMonitoringService/lab8%20test.postman_collection.json)
 - Docker-ориентированная архитектура
 - Prometheus + Grafana для мониторинга
+- просмотр ручек через Swagger
 
 ## ⚠️ Важные заметки
 - Для работы Kafka-эндпоинтов необходимы активные правила фильтрации
