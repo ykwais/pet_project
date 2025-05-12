@@ -78,7 +78,7 @@ docker-compose -p sasha up
     - Выберите созданный источник данных Prometheus
 
 ## 🛠 Инструменты
-- Готовые запросы Postman в [файле](postman_collection.json)
+- Готовые запросы Postman в [файле](JavaMonitoringService/lab8 test.postman_collection.json)
 - Docker-ориентированная архитектура
 - Prometheus + Grafana для мониторинга
 
